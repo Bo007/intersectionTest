@@ -1,0 +1,2 @@
+Results for geometry 0 vs geometry 1
+Error determining intersection points!
