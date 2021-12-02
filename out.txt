@@ -1,2 +1,115 @@
 Results for geometry 0 vs geometry 1
 Error determining intersection points!
+
+Results for geometry 0 vs geometry 2
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 3
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 4
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 5
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 6
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 0 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 2
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 3
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 4
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 5
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 6
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 1 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 2 vs geometry 3
+Intersection point 0
+1.67712 1.5
+Intersection point 1
+4.32288 1.5
+
+Results for geometry 2 vs geometry 4
+Error determining intersection points!
+
+Results for geometry 2 vs geometry 5
+Error determining intersection points!
+
+Results for geometry 2 vs geometry 6
+Error determining intersection points!
+
+Results for geometry 2 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 2 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 3 vs geometry 4
+Intersection point 0
+1.00716 -0.169052
+Intersection point 1
+4.49284 -1.33095
+
+Results for geometry 3 vs geometry 5
+Error determining intersection points!
+
+Results for geometry 3 vs geometry 6
+Error determining intersection points!
+
+Results for geometry 3 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 3 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 4 vs geometry 5
+Error determining intersection points!
+
+Results for geometry 4 vs geometry 6
+Error determining intersection points!
+
+Results for geometry 4 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 4 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 5 vs geometry 6
+Intersection point 0
+-1 2
+
+Results for geometry 5 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 5 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 6 vs geometry 7
+Error determining intersection points!
+
+Results for geometry 6 vs geometry 8
+Error determining intersection points!
+
+Results for geometry 7 vs geometry 8
+Error determining intersection points!
+

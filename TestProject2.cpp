@@ -57,7 +57,8 @@ int main(int argc, char* argv[])
 				}
 			} else {
 				outfile << "Error determining intersection points!" << std::endl;
-			}
+            }
+            outfile << std::endl;
 		}
 	}
 	outfile.close();
